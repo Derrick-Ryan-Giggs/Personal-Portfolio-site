@@ -27,6 +27,8 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 
 ### Project 1 🚀
 
+DESCRIPTION:
+
   A responsive website for a community-based organization focused on keeping underprivileged children in school. The site provides details about the organization, its mission, programs, a gallery of past events, and testimonials from beneficiaries and supporters. 
 -
 ## Key Features
@@ -43,6 +45,8 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 
 
 ### Project 2 🌟
+
+DESCRIPTION :
 
  A fun, Bootstrap-powered website where dog owners can connect their pets for playdates or companionship. 
 - 
