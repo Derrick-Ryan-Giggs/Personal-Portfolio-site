@@ -22,7 +22,7 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 
 ## 🚀 Projects  
 
-### Project 1
+### Project 1 🚀
 
   A responsive website for a community-based organization focused on keeping underprivileged children in school. The site provides details about the organization, its mission, programs, a gallery of past events, and testimonials from beneficiaries and supporters. 
 -
@@ -33,13 +33,13 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 - **Testimonials Section**: Features stories and feedback from beneficiaries and supporters.
 - **Responsive Design**: Ensures the website is user-friendly on both mobile and desktop devices.
 
-GitHub Link []
+- GitHub Link []
 
 
 - [View Project]  https://keep-a-child-in-school.vercel.app/ 
 
 
-### Project 2
+### Project 2 🌟
 
  A fun, Bootstrap-powered website where dog owners can connect their pets for playdates or companionship. 
 - 
@@ -49,7 +49,7 @@ GitHub Link []
 - **Testimonials Section**: Displays feedback from happy users.
 - **Responsive Design**: Ensures compatibility across devices, thanks to Bootstrap.
 
-GitHub Link [] 
+- GitHub Link [] 
 
 
 - [View Project] https://celadon-pastelito-557bd8.netlify.app/ 
