@@ -1,4 +1,4 @@
-Ryan Giggs Portfolio Website  
+RYAN GIGGS PORTFOLIO WEBSITE  
 
 Welcome to my personal portfolio website! This project showcases my skills, educational background, professional interests, and projects I have worked on.  
 
