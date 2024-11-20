@@ -13,7 +13,7 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 - HTML5  
 - CSS3 (including Flexbox and Grid for responsive design)  
 - JavaScript (optional: for interactivity and animations)  
-- Hosting: GitHub Pages  
+- Hosting: Netlify  []  
 
 ## 📬 Contact  
 Feel free to reach out via the contact form on my portfolio or through the following:  
