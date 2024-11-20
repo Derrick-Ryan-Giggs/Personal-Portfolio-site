@@ -12,7 +12,10 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 ## 🛠️ Technologies Used  
 - HTML5  
 - CSS3 (including Flexbox and Grid for responsive design)  
-- JavaScript (optional: for interactivity and animations)  
+- JavaScript (optional: for interactivity and animations)
+
+- GitHub Link []
+  
 - Hosting: Netlify  []  
 
 ## 📬 Contact  
