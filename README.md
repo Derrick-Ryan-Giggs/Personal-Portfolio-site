@@ -14,7 +14,7 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 - CSS3 (including Flexbox and Grid for responsive design)  
 - JavaScript (optional: for interactivity and animations)
 
-- GitHub Link []
+- GitHub Link https://github.com/Derrick-Ryan-Giggs/Personal-Portfolio-site
   
 - Hosting: Netlify   https://cheerful-gecko-4280f6.netlify.app/   
 
