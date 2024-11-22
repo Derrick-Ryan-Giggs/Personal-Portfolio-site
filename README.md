@@ -39,7 +39,7 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 - GitHub Link  https://github.com/Derrick-Ryan-Giggs/Keep_A_Child_in_School 
 
 
-- [View Project]  https://keep-a-child-in-school.vercel.app/ 
+- [View Project]  https://keep-a-child-in-school.vercel.app/  https://deft-bombolone-46a390.netlify.app/ 
 
 
 ### PROJECT 2 DESCRIPTION 🌟:
