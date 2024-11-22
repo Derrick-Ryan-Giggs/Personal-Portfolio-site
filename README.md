@@ -52,7 +52,7 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 - **Testimonials Section**: Displays feedback from happy users.
 - **Responsive Design**: Ensures compatibility across devices, thanks to Bootstrap.
 
-- GitHub Link [] 
+- GitHub Link https://github.com/Derrick-Ryan-Giggs/Tinder_For_Dogs
 
 
 - [View Project] https://celadon-pastelito-557bd8.netlify.app/ 
