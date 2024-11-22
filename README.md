@@ -16,7 +16,7 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 
 - GitHub Link []
   
-- Hosting: Netlify  []  
+- Hosting: Netlify   https://cheerful-gecko-4280f6.netlify.app/   
 
 ## 📬 Contact  
 Feel free to reach out via the contact form on my portfolio or through the following:  
