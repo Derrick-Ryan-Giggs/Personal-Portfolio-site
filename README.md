@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
     🛠️ Technologies Used
     🚀 Projects
         Project 1: Keep A Child in School
-        Project 2: Tindog
+        Project 2: Tindog (Tinder for dogs)
     📬 Contact
 
 🌟 Features
