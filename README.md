@@ -87,8 +87,7 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 
 [Ryan Giggs on LinkedIn](https://www.linkedin.com/in/ryan-giggs-a19330265/)
 
-    Email: gderrick768@gmail.com
-    [Ryan Giggs on LinkedIn](https://www.linkedin.com/in/ryan-giggs-a19330265/) 
+[Email: gderrick768@gmail.com](mailto:gderrick768@gmail.com)
 
 
 
