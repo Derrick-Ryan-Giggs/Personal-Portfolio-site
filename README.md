@@ -85,6 +85,7 @@ Tindog
 Feel free to reach out via the contact form on my portfolio or through the following channels:
 
     Email: gderrick768@gmail.com
-    LinkedIn: [Ryan Giggs](https://www.linkedin.com/in/ryan-giggs-a19330265/)
+    [LinkedIn: Ryan Giggs](https://www.linkedin.com/in/ryan-giggs-a19330265/) 
+[Portfolio Website Hosted on Netlify](https://cheerful-gecko-4280f6.netlify.app/) 
 
 Thank you for exploring my portfolio! Feel free to reach out via email or LinkedIn, and don't forget to check out my projects. Let's build something amazing together! 🚀
