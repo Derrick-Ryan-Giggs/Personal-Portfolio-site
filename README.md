@@ -26,7 +26,8 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 
 Hosting:
 
-    Portfolio Website:  Hosted on [Netlify](https://cheerful-gecko-4280f6.netlify.app/).
+    
+[Portfolio Website Hosted on Netlify](https://cheerful-gecko-4280f6.netlify.app/)
 
 🚀 Projects
 Project 1: Keep A Child in School 🚀
@@ -86,6 +87,6 @@ Feel free to reach out via the contact form on my portfolio or through the follo
 
     Email: gderrick768@gmail.com
     [LinkedIn: Ryan Giggs](https://www.linkedin.com/in/ryan-giggs-a19330265/) 
-[Portfolio Website Hosted on Netlify](https://cheerful-gecko-4280f6.netlify.app/) 
+
 
 Thank you for exploring my portfolio! Feel free to reach out via email or LinkedIn, and don't forget to check out my projects. Let's build something amazing together! 🚀
