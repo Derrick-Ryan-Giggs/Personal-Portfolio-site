@@ -52,7 +52,7 @@ Live Demo:
 View Project on Netlify
 GitHub Repository:
 
-Keep A Child in School
+Tinder for Dogs 
 Project 2: Tindog 🌟
 Description:
 
@@ -76,6 +76,8 @@ View Project on Netlify
 GitHub Repository:
 
 Tindog
+
+
 📬 Contact
 
 Feel free to reach out via the contact form on my portfolio or through the following channels:
