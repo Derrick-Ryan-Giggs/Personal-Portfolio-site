@@ -1,58 +1,86 @@
-RYAN GIGGS PORTFOLIO WEBSITE  
+Ryan Giggs Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, educational background, professional interests, and projects I have worked on.  
+Welcome to my personal portfolio website! This project showcases my skills, educational background, professional interests, and projects I have worked on.
+📋 Table of Contents
 
-## 🌟 Features  
-- **About Me**: Learn more about who I am, my passion for technology, and what drives me.  
-- **Educational Background**: Explore my academic achievements and download my CV.  
-- **Projects**: Check out some of my work with links and descriptions.  
-- **Interests**: Discover my professional interests and hobbies.  
-- **Contact Form**: Get in touch with me easily.  
+    🌟 Features
+    🛠️ Technologies Used
+    🚀 Projects
+        Project 1: Keep A Child in School
+        Project 2: Tindog
+    📬 Contact
 
-## 🛠️ Technologies Used  
-- HTML5  
-- CSS3 (including Flexbox and Grid for responsive design)  
-- JavaScript (optional: for interactivity and animations)
+🌟 Features
 
-- GitHub Link https://github.com/Derrick-Ryan-Giggs/Personal-Portfolio-site
-  
-- Hosting: Netlify   https://cheerful-gecko-4280f6.netlify.app/   
+    About Me: Learn more about who I am, my passion for technology, and what drives me.
+    Educational Background: Explore my academic achievements and download my CV.
+    Projects: Check out some of my work with links and descriptions.
+    Interests: Discover my professional interests and hobbies.
+    Contact Form: Get in touch with me easily.
 
-## 📬 Contact  
-Feel free to reach out via the contact form on my portfolio or through the following:  
-- Email: gderrick768@gmail.com
-- LinkedIn:https://www.linkedin.com/in/ryan-giggs-a19330265/ 
+🛠️ Technologies Used
 
-## 🚀 Projects  
+    HTML5
+    CSS3 (including Flexbox and Grid for responsive design)
+    JavaScript (for interactivity and animations)
 
-### PROJECT 1 DESCRIPTION 🚀:
+Hosting:
 
-  A responsive website for a community-based organization focused on keeping underprivileged children in school. The site provides details about the organization, its mission, programs, a gallery of past events, and testimonials from beneficiaries and supporters. 
--
-## Key Features
-- **Home Page**: Provides an overview of the organization's mission and vision.
-- **About Us Section**: Shares the organization's background, goals, and achievements.
-- **Gallery Section**: Displays images of past projects and events to showcase the impact of the organization.
-- **Testimonials Section**: Features stories and feedback from beneficiaries and supporters.
-- **Responsive Design**: Ensures the website is user-friendly on both mobile and desktop devices.
+    Portfolio Website: Hosted on Netlify
 
-- GitHub Link  https://github.com/Derrick-Ryan-Giggs/Keep_A_Child_in_School 
+🚀 Projects
+Project 1: Keep A Child in School 🚀
+Description:
 
+A responsive website for a community-based organization focused on keeping underprivileged children in school. This website supports the organization's mission by showcasing their initiatives and building trust through testimonials and galleries.
+Key Features:
 
-- [View Project]  https://keep-a-child-in-school.vercel.app/  https://deft-bombolone-46a390.netlify.app/ 
+    Home Page: Provides an overview of the organization's mission and vision.
+    About Us Section: Shares the organization's background, goals, and achievements.
+    Gallery Section: Displays images of past projects and events to showcase the impact of the organization.
+    Testimonials Section: Features stories and feedback from beneficiaries and supporters.
+    Responsive Design: Ensures the website is user-friendly on both mobile and desktop devices.
 
+Technologies Used:
 
-### PROJECT 2 DESCRIPTION 🌟:
+    HTML
+    CSS
+    JavaScript
 
- A fun, Bootstrap-powered website where dog owners can connect their pets for playdates or companionship. 
-- 
-## Key Features
-- **Hero Section**: Eye-catching design with a brief introduction to the platform.
-- **Featured Dogs**: Showcases profiles of dogs available for meetups.
-- **Testimonials Section**: Displays feedback from happy users.
-- **Responsive Design**: Ensures compatibility across devices, thanks to Bootstrap.
+Live Demo:
 
-- GitHub Link https://github.com/Derrick-Ryan-Giggs/Tinder_For_Dogs
+View Project on Netlify
+GitHub Repository:
 
+Keep A Child in School
+Project 2: Tindog 🌟
+Description:
 
-- [View Project] https://celadon-pastelito-557bd8.netlify.app/ 
+A fun, Bootstrap-powered website where dog owners can connect their pets for playdates or companionship.
+Key Features:
+
+    Hero Section: Eye-catching design with a brief introduction to the platform.
+    Featured Dogs Section: Showcases profiles of dogs available for meetups.
+    Testimonials Section: Displays feedback from happy users.
+    Responsive Design: Ensures compatibility across devices, thanks to Bootstrap.
+
+Technologies Used:
+
+    HTML
+    CSS
+    Bootstrap
+
+Live Demo:
+
+View Project on Netlify
+GitHub Repository:
+
+Tindog
+📬 Contact
+
+Feel free to reach out via the contact form on my portfolio or through the following channels:
+
+    Email: gderrick768@gmail.com
+    LinkedIn: Ryan Giggs
+
+Thank you for exploring my portfolio! Feel free to reach out via email or LinkedIn, and don't forget to check out my projects. Let's build something amazing together! 🚀
