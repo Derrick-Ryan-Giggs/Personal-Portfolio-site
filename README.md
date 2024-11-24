@@ -50,7 +50,8 @@ Technologies Used:
 Live Demo:
 
 [View Project on Netlify](https://deft-bombolone-46a390.netlify.app/)
-GitHub Repository:
+
+GitHub Repository: https://github.com/Derrick-Ryan-Giggs/Keep_A_Child_in_School 
 
 Tinder for Dogs 
 Project 2: Tindog 🌟
@@ -73,7 +74,8 @@ Technologies Used:
 Live Demo:
 
 [View Project on Netlify](https://celadon-pastelito-557bd8.netlify.app/)
-GitHub Repository:
+
+GitHub Repository: https://github.com/Derrick-Ryan-Giggs/Tinder_For_Dogs
 
 Tindog
 
