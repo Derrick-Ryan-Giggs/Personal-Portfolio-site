@@ -49,7 +49,7 @@ Technologies Used:
 
 Live Demo:
 
-[View Project on Netlify](https://deft-bombolone-46a390.netlify.app/)
+[View Project on Vercel](https://keep-a-child-in-school.vercel.app/)
 
 GitHub Repository: https://github.com/Derrick-Ryan-Giggs/Keep_A_Child_in_School 
 
